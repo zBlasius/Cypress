@@ -1,8 +1,8 @@
 
 const USER = {
     ADMIN: {
-        USER: 'blasiusgustavo19@gmail.com',
-        PASSWORD: 'frederico1137'
+        USER: '-- SEU USER --',
+        PASSWORD: '-- SUA SENHA --'
     },
 }
 
